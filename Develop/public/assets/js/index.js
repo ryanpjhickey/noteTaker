@@ -1,7 +1,7 @@
 let noteTitle;
 let noteText;
 let saveNoteBtn;
-let newNoteBtn =;
+let newNoteBtn;
 let noteList;
 
 if (window.location.pathname === '/notes') {
