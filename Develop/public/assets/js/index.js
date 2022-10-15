@@ -1,7 +1,7 @@
 let noteTitle;
 let noteText;
 let saveNoteBtn;
-let newNoteBtn = document.querySelector('#new-post');
+let newNoteBtn =;
 let noteList;
 
 if (window.location.pathname === '/notes') {
