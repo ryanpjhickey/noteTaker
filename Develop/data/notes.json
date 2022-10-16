@@ -1,4 +1,14 @@
 {
   "notes": [
+    {
+      "title": "This is my first note!",
+      "text": "Hello world!",
+      "id": "0"
+    },
+    {
+      "title": "This is my second note...",
+      "text": "Goodbye world...",
+      "id": "1"
+    }
   ]
 }
