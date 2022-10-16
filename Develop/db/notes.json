@@ -1,14 +1,12 @@
 {
     "notes": [
       {
-        "id": "0",
         "title": "October 15",
-        "body": "Today I am coding module 11."
+        "text": "Today I am coding module 11."
       },
       {
-        "id": "1",
         "title": "October 16",
-        "body": "Today I am coding Module 12"
+        "text": "Today I am coding Module 12"
       }
     ]
 }
